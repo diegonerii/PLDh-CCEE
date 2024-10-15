@@ -2,8 +2,9 @@
 
 ## Pacote Python para Extração e Armazenamento de Dados de PLD Horário da CCEE
 
-Este repositório contém código Python para extrair dados da Companhia de Comercialização de Energia Elétrica (CCEE) e armazená-los no Google Cloud Storage (GCS) e BigQuery.
-Funcionalidades
+Este repositório contém código Python para extrair dados de PLD (Preço de Liquidação das Diferenças) Horário da Câmara de Comercialização de Energia Elétrica (CCEE) e armazená-los no Google Cloud Storage (GCS) e BigQuery (BQ).
+
+## Funcionalidades
 
     Extrai dados de Preços de Liquidação de Diferenças (PLD) de várias regiões do site da CCEE.
     Converte os dados extraídos em um DataFrame do Pandas.
